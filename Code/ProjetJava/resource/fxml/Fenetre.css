@@ -1,0 +1,15 @@
+.background{
+    -fx-background-color: black;
+}
+
+.label{
+    -fx-text-fill: yellow;
+}
+
+.titre{
+    -fx-text-fill: red;
+}
+
+.text{
+    -fx-fill: yellow;
+}

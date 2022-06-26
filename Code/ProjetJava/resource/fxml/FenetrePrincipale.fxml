@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="600" maxWidth="550" styleClass="background" stylesheets="@Fenetre.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.FenetrePrincipale">
+      <Text fx:id="Score" styleClass="text" AnchorPane.leftAnchor="275.0" AnchorPane.topAnchor="0.0" />
+      <Pane fx:id="zonedeJeux" maxHeight="550" maxWidth="500" style="-fx-background-color: black" AnchorPane.leftAnchor="50.0" AnchorPane.topAnchor="25.0" />
+</AnchorPane>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fc6acc1-5cd5-4fa1-94e4-bc57e011762d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/ProjetJava/fxml/pacman.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/ProjetJava/view/PacManView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/fxml/FenetrePrincipale.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/fxml/pacman.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/Pacman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/blueghost.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/ghost1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/ghost2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/ghost3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/pacmanDown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/pacmanLeft.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/pacmanRight.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/pacmanUp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/redghost.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/smalldot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resource/img/whitedot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/boucleur/Boucleur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/boucleur/BoucleurSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/data/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/data/Monde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/modele/CreateurEntite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/modele/CreateureEntiteSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rsc/Cellvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rsc/Deplacer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rsc/PacmanModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/view/FenetrePrincipale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/view/PacManView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/view/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../projet16_jfx_2020_2021.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/ProjetJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/ProjetJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/ProjetJava/personnage/Joueur.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/ProjetJava/personnage/Joueur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/data/Stub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/data/Stub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/items/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/items/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/launch/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/launch/Launch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/personnage/Entite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/personnage/Entite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/personnage/Joueur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/personnage/Joueur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/personnage/Pacman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/personnage/Pacman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/view/CtrlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/view/CtrlTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1mmZxo72Q31qnh6PB67OagevJc2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc6acc1-5cd5-4fa1-94e4-bc57e011762d" name="Default Changelist" comment="" />
+      <created>1610100976676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610100976676</updated>
+    </task>
+    <servers />
+  </component>
+</project>
